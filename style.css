@@ -136,3 +136,31 @@ body {
     color: #ccc;
     margin-bottom: 20px;
 }
+ .feature-card {
+        border-radius: 20px;
+        padding: 30px;
+        min-height: 350px;
+    }
+    .pink   { background: #ffd3df; }
+    .blue   { background: #cfe5ff; }
+    .yellow { background: #ffef99; }
+    .peach  { background: #ffe1b3; }
+    .lav    { background: #e7d7ff; }
+    .img-box img {
+        width: 160px;
+    }
+    .journey-section {
+        padding: 40px 0;
+    }
+    .journey-img-box {
+        background: #fff;
+        border-radius: 25px;
+        padding: 20px;
+        box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.08);
+    }
+    .journey-img-box img {
+        width: 100%;
+        border-radius: 15px;
+    }
+    
+
